@@ -98,4 +98,4 @@ You can rollback to your previous **edit**,  "**git add**", "**git commit**", an
 * "**Git reset HEAD filename**", it removes a file from stage.
 * "**Git reset HEAD~1**", it removes takes 2 steps back and does the same as "**Git reset --easy HEAD~1**" and "**Git checkout --filename**", it moves the file from repository to working directory.
 * "**Git reset --easy HEAD~1**", it uncommits the file and removes it from repository
-* "**Git reset --hard HEAD~1**" it uncommits the file and removes it from  staging area and it, it moves the file from repository in github to working directory.
+* "**Git reset --hard HEAD~1**" it uncommits the file and removes it from staging area and it moves the file from repository in github to working directory.
