@@ -40,7 +40,7 @@ Additionally if you want to "**git push**" it to github, you need to link the SS
 
 
 
-![test](github-tutorial/Screen%20Shot%202017-10-20%20at%201.00.39%20PM.png)
+![hi](https://github.com/Jeffreyg2240/github-tutorial/blob/master/Screen%20Shot%202017-10-19%20at%201.11.33%20PM.png)
 
 ---
 ## [Workflow & Commands](https://docs.google.com/presentation/d/1b777MzxqxIpTITSXiPOdn9427Oo7VclwecAiZ-5boy8/edit#slide=id.ge18f0c268_0_31)
